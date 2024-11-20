@@ -994,6 +994,10 @@ progress {
 .gy-5 {
   --bs-gutter-y: 3rem;
 }
+#resume {
+  text-align: center;
+  
+}
 
 @media (min-width: 576px) {
   .col-sm {
